@@ -1,0 +1,10 @@
+.container {
+	box-sizing: border-box;
+	margin: 10px;
+	padding: 10px;
+	height: 200px;
+	width: auto;
+	border-style: dashed;
+	border-color: black;
+	color: blue;
+}
